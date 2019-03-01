@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\егор\desktop\bztuts\bztuts\main.cpp(750): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+c:\users\егор\desktop\bztuts\bztuts\main.cpp(751): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+  BzTuts.vcxproj -> C:\Users\Егор\Desktop\BzTuts\x64\Debug\BzTuts.exe
